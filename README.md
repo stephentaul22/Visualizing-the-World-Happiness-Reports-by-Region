@@ -1,6 +1,6 @@
 # Exploring-The-World-Happiness-Reports-by-Region
 
-[Click here to view the Full Report: Exploring The World Happiness Reports by Region](https://nbviewer.jupyter.org/github/stephentaul22/Exploring-The-World-Happiness-Reports-by-Region/blob/main/Exploring%20The%20World%20Happiness%20Reports%20by%20Region.ipynb)
+[Full Report: Exploring The World Happiness Reports by Region](https://nbviewer.jupyter.org/github/stephentaul22/Exploring-The-World-Happiness-Reports-by-Region/blob/main/Exploring%20The%20World%20Happiness%20Reports%20by%20Region.ipynb)
 
 What is happiness to you?
 
@@ -8,12 +8,12 @@ The member states of the United Nations, through its Sustainable Development Sol
 
 To the United Nations, quantifying happiness involves measuring and aggregating 6 explanatory factors. The aggregate of these factors is known as the "Happiness Score". The 6 explanatory factors that the UN has agreed upon are:
 
-    GDP per capita
-    Social support
-    Healthy life expectancy
-    Freedom to make life choices
-    Generosity
-    Perception of curruption.
+* GDP per capita
+* Social support
+* Healthy life expectancy
+* Freedom to make life choices
+* Generosity
+* Perception of curruption.
 
 The UN has chosen these factors because the most current research has shown that these 6 factors most accurately explain national-level differences in life evaluations. The 6 factors are not meant to be interpreted as specific causal agents, but rather to be understood as proven correlates to the happiness and well-being of a nation. They are seen as trusted metrics in the emerging science of happiness and well-being. (The 2019 World Happiness Report FAQ)
 
